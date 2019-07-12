@@ -1,2 +1,2 @@
 # application1
-tis is an application
+this is an application
